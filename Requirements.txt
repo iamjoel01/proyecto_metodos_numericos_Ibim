@@ -1,0 +1,3 @@
+Le ejecucion del programa debe de realizarse desde jupyterLab , este aplicativo se encuentra dentro de anaconda,
+esto para que se ejecute de manera correcta.
+No se puede ejecutar desde google colab, ya que este no tiene las librerias necesarias .
